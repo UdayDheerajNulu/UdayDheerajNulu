@@ -1,16 +1,20 @@
-## Hi there 👋
+# Uday Dheeraj Nulu
 
-<!--
-**UdayDheerajNulu/UdayDheerajNulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI / ML / GenAI Engineer · Hyderabad, India**
 
-Here are some ideas to get you started:
+AI/ML engineer with 3 years building NLP and machine-learning systems in production at a Tier-1 regulated bank, and prototyping LLM, agentic-AI, and text-to-SQL solutions. B.E. (Hons.) Computer Science, BITS Pilani.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working on: agentic-AI systems, RAG, and LLM tooling
+- Focus areas: NLP classification, text-to-SQL, model explainability (SHAP), LLM cost/latency
+- Reach me: udaydheeraj2002@gmail.com · [LinkedIn](https://linkedin.com/in/udaydheerajnulu)
+
+## Featured projects
+- **Agentic Job-Search Assistant** — parses job descriptions, scores profile fit, tailors resumes per JD, and drafts outreach (FastAPI, LangGraph, FAISS, Streamlit).
+- **Agentic AI Database Chatbot** — natural-language querying over a database via text-to-SQL.
+- **Agentic AI Trading Bot** — autonomous strategy research and execution (in progress).
+
+## Tech
+Python · SQL · LLMs · LangChain / LangGraph · RAG · Text-to-SQL · MCP · FastAPI · scikit-learn · FAISS
+
+---
+How to use this: create a repository named **`UdayDheerajNulu`** (exactly your username), add this as its `README.md`, and GitHub will display it at the top of your profile. Pin your 3–6 best repos, and give each a description + topics.
