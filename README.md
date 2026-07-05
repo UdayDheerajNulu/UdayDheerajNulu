@@ -15,6 +15,3 @@ AI/ML engineer with 3 years building NLP and machine-learning systems in product
 
 ## Tech
 Python · SQL · LLMs · LangChain / LangGraph · RAG · Text-to-SQL · MCP · FastAPI · scikit-learn · FAISS
-
----
-How to use this: create a repository named **`UdayDheerajNulu`** (exactly your username), add this as its `README.md`, and GitHub will display it at the top of your profile. Pin your 3–6 best repos, and give each a description + topics.
